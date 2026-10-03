@@ -1,0 +1,8 @@
+.env
+.data
+.nuxt
+.output
+.vercel
+dist
+node_modules
+.env.local
