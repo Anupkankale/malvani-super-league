@@ -1,4 +1,4 @@
-const SITE_URL = 'https://malvani-super-league.vercel.app/'
+const SITE_URL = 'https://malvani-super-league.devxpertlabs.com/'
 const TITLE = 'Malvani Super League, Season 2026'
 const DESCRIPTION = '6 teams. One live auction night. Register as a player and get picked.'
 
