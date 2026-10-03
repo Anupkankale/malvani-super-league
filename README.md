@@ -38,6 +38,11 @@ request. Delete it (with the dev server stopped) to start fresh.
 4. Redeploy. The first request creates the tables and demo teams.
 5. Update `SITE_URL` in `nuxt.config.ts` to your Vercel URL so share previews point at it.
 
+## Updating the live site
+
+The GitHub repo is connected to Vercel: every push to `main` deploys to
+https://malvani-super-league.vercel.app automatically, and other branches get preview URLs.
+
 ## How the backend works
 
 | Route | Who | What |
